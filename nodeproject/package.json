@@ -1,0 +1,22 @@
+{
+  "name": "event-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^4.13.3",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.4",
+    "jshint": "^2.9.4",
+    "wiredep": "^4.0.0"
+  },
+  "license": "ISC"
+}
